@@ -2,7 +2,6 @@
 Lixeira com abertura automática, utilizando uma placa Arduíno Uno e um sensor ultrassônico
 
 ### Materiais Utilizados
-
 ##
 
 * <a href="https://www.baudaeletronica.com.br/arduino-uno-r3.html">Placa Arduíno Uno R3</a>
@@ -12,6 +11,5 @@ Lixeira com abertura automática, utilizando uma placa Arduíno Uno e um sensor 
 * <a href="https://www.amazon.com.br/Retangular-CLTEC-Inoxid%C3%A1vel-Escrit%C3%B3rio-Antidigitais/dp/B08JQ77D4C ">Lixeira com abertura de 90° graus</a>
 
 ### Funcionamento
-
 ##
 
