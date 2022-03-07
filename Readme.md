@@ -14,6 +14,6 @@ Ao aproximar uma das mãos sobre o sensor dentro de um distância de até 8 cm d
 
 O sensor ultrassônico calcula a distância através da emissão de sinais de ida e volta, desde o sensor até o objeto que refletiu o sinal. Com base no tempo entre o envio e o retorno do sinal emitido, ele determina a distância de aproximação.
 
-### Versão 2020
+##### Versão 2020
 
 
